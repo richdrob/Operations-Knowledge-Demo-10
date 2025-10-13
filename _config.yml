@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "DCO Knowledge"
   avatar : "/assets/images/u0fm.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Find the document you need"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
