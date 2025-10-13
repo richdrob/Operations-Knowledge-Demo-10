@@ -78,7 +78,7 @@ author:
 footer:
   links:
    - label: "Documention"
-      icon: "fab fa-fw fa-github"
+      icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#documention"
     - label: "Tools"
       icon: ""
