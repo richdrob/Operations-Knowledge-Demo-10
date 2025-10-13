@@ -62,12 +62,12 @@ author:
   avatar : "/assets/images/u0fm.png"
   bio    : "Find the document you need"
   links:
-    - label: "Website"
+    - label: "Documention"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#documention"
     - label: "Tools"
       icon: ""
-      url: https://richdrob.github.io/Operations-Knowledge-Demo-10/tags/#tools"
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
@@ -77,9 +77,12 @@ author:
 
 footer:
   links:
+   - label: "Documention"
+      icon: "fab fa-fw fa-github"
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#documention"
     - label: "Tools"
       icon: ""
-      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/tags/#tools"
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
