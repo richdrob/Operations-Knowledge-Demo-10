@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "DCO Knowledge"
   avatar : "/assets/images/u0fm.png"
-  bio    : "Find the document you need"
+  bio    : "Find what you need"
   links:
     - label: "Tools"
       icon: ""
