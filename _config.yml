@@ -74,7 +74,7 @@ author:
 
 footer:
   links:
-  - label: "Tools"
+    - label: "Tools"
       icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
     - label: "Documention"
