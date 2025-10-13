@@ -62,7 +62,6 @@ author:
   avatar : "/assets/images/u0fm.png"
   bio    : "Find the document you need"
   links:
-    
     - label: "Tools"
       icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
@@ -75,7 +74,6 @@ author:
 
 footer:
   links:
-   
   - label: "Tools"
       icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
