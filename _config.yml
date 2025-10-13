@@ -68,9 +68,13 @@ author:
     - label: "Documention"
       icon: "fas fa-fw fa-link"
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#documention"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Status Pages"
+      icon: ""
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#status-page"
+    - label: "Run My Jobs"
+      icon: ""
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#run-my-jobs"
+
 
 footer:
   links:
@@ -80,9 +84,12 @@ footer:
     - label: "Documention"
       icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#documention"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Status Pages"
+      icon: ""
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#status-page"
+      - label: "Run My Jobs"
+      icon: ""
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#run-my-jobs"
 
 defaults:
   # _posts
