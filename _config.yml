@@ -62,6 +62,9 @@ author:
   avatar : "/assets/images/u0fm.png"
   bio    : "Find what you need"
   links:
+    - label: "Turnover"
+      icon: ""
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/turnover/post-turnover/"
     - label: "Tools"
       icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
@@ -78,6 +81,9 @@ author:
 
 footer:
   links:
+    - label: "Turnover"
+      icon: ""
+      url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/turnover/post-turnover/"
     - label: "Tools"
       icon: ""
       url: "https://richdrob.github.io/Operations-Knowledge-Demo-10/categories/#operator-tools"
