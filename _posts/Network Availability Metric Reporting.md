@@ -1,6 +1,9 @@
 ---
 Date: May-21-2025 17:05 pm
-tags: Weekly Tasks, Training, How-To
+tags: 
+-Weekly Tasks 
+-Training
+-How-To
 ---
 [[DCO]] is responsible for the weekly generation of network metrics for [[UMnet]].  These reports are a list of all [[CORE]], [[BIN]], [[DL]], and [[AL]] devices that have disconnected from the network and how long they have been disconnected for.  These reports are compiled and generated into a monthly report for the ITS Leadership Team.  Accurately identifying and reporting this data is crucial.  Inaccurate data could either overestimate the impact of specific outages and causes, or obscure network issues that need to be addressed. 
 
