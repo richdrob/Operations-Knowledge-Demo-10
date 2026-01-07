@@ -116,6 +116,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      related: false
 
 category_archive:
   type: liquid
