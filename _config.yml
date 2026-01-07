@@ -117,6 +117,7 @@ defaults:
       layout: single
       author_profile: true
       related: false
+      paginator.total_pages: 1
 
 category_archive:
   type: liquid
